@@ -1,0 +1,14 @@
+{
+    "name": "Pacote de exemplo Tableless",
+    "description": "Este pacote foi criado apenas para complementar o post no Tableless",
+    "authors": [
+        {
+            "name": "Andre Cardoso",
+            "email": "andrecardosodev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.17",
+        "kevinlebrun/slug.php": "1.*"
+    }
+} 
